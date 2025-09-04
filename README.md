@@ -1,6 +1,8 @@
 ## Introduction
 This script provides comprehensive system inspection functionality, helping administrators promptly identify and resolve potential issues to ensure system security.
 
+Based on the work '一键自动化巡检服务器', copyright belongs to the original author (零氪的云原生).
+
 ## Functionality Overview
 
 1. **Permission Check**
