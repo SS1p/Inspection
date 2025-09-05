@@ -1,7 +1,7 @@
 ## Introduction
 This script provides comprehensive system inspection functionality, helping administrators promptly identify and resolve potential issues to ensure system security.
 
-Based on the open-source program '一键自动化巡检服务器' for modifications, copyright belongs to the original author (零氪的云原生).
+Based on the open-source program '一键自动化巡检服务器 (零氪的云原生)' for modifications.
 
 ## Functionality Overview
 
